@@ -8,10 +8,6 @@ export default function InstructionsComponent() {
 				<h1>
 					Lo Squalo<span> Menu</span>
 				</h1>
-				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
-				</p>
 			</header>
 
 			<div className={styles.buttons_container}>
