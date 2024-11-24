@@ -6,7 +6,7 @@ export default function Navbar() {
 			<a href="https://https://www.instagram.com/losqualo_olbiaofficial?igsh=MTN5MThwa3dwbmJyeg==" target={"_blank"}>
 				<img className={styles.alchemy_logo} src="/logo1.png"></img>
 			</a>
-			<ConnectButton></ConnectButton>
+			
 		</nav>
 	);
 }
