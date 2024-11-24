@@ -22,7 +22,7 @@ export default function InstructionsComponent() {
 				</a>
 				<a
 					target={"_blank"}
-					href={"/menu-black.pdf"}
+					href={"/menu_black.pdf"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
